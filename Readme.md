@@ -20,8 +20,8 @@ Ensure the following are installed on your system:
 ### Setup Instructions
 1. **Clone the Repository**:
     ```sh
-    git clone <your-repo-url>
-    cd <your-repo-name>
+    git clone https://github.com/DineshMoorthy007/Chatbot.git
+    cd Chatbot
     ```
 
 2. **Install Dependencies**:
@@ -31,7 +31,7 @@ Ensure the following are installed on your system:
 
 3. **Configure API Keys**:
     - Create a `.env` file in the project root.
-    - Add your Google Gemini API key:
+    - Add your Google Gemini API key (You can get it from Google AI Studio):
       ```env
       GEMINI_API_KEY=your_api_key_here
       ```
