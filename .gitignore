@@ -1,0 +1,9 @@
+# Python compiled files and cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+
+# Environment variable files (if using python-dotenv)
+.env
