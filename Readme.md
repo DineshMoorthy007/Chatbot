@@ -1,4 +1,4 @@
-# Healthcare Chatbot 🤖
+# Healthcare Chatbot 
 
 An intelligent, sentiment-aware chatbot designed to provide preliminary healthcare guidance when professional medical assistance is unavailable.
 
@@ -58,11 +58,11 @@ python chatbot.py
 - `help` → Display usage instructions.
 - `commands` → List all available commands.
 
-## ⚠️ Limitations
+##  Limitations
 - **Not a Replacement for Medical Advice**: Always consult a healthcare professional for serious concerns.
 - **Internet Dependency**: Requires an active internet connection for AI-powered responses.
 
-## 📜 License
+##  License
 This project is licensed under the [MIT License](LICENSE).
 
 ---
